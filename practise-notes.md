@@ -243,3 +243,10 @@ Shifting the weight can help hit the ball stright.&#x20;
 
 Make sure your hand is in front of your body
 
+
+
+
+
+{% embed url="https://www.youtube.com/watch?v=d6-lYaWVgIw" %}
+
+胯先open，然后扭动身体来产生速度，
