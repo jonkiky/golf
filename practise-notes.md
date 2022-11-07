@@ -250,3 +250,19 @@ Make sure your hand is in front of your body
 {% embed url="https://www.youtube.com/watch?v=d6-lYaWVgIw" %}
 
 胯先open，然后扭动身体来产生速度，
+
+
+
+11.05 --&#x20;
+
+
+
+&#x20;Shoulder close has some issue with aiming.&#x20;
+
+Right hand, just push down.&#x20;
+
+
+
+
+
+&#x20;
